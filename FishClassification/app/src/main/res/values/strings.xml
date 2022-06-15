@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FishClassification</string>
+    <string name="probabilityBlackSeaSprat">Probability of being Black Sea Sprat: %1$s</string>
+   <string name="probabilityGiltHeadBream">Probability of being Gilt-Head Bream: %1$s"</string>
+   <string name="probabilityHourseMackerel">Probability of being Hourse Mackerel: %1$s"</string>
+   <string name="probabilityRedMullet">Probability of being Red Mullet: %1$s"</string>
+   <string name="probabilityRedSeaBream">Probability of being Red Sea Bream: %1$s"</string>
+   <string name="probabilitySeaBass">Probability of being Sea Bass: %1$s"</string>
+   <string name="probabilityShrimp">Probability of being Shrimp: %1$s"</string>
+   <string name="probabilityStripedRedMullet">Probability of being Striped Red Mullet: %1$s"</string>
+   <string name="probabilityTrout">Probability of being Trout: %1$s"</string>
+</resources>
